@@ -23,6 +23,7 @@ Here is the registered attendance to our fundational event:
 4.  Frank Izquierdo (https://github.com/kodi24fever)
 5.
 6.
-7. Alejandro Sanchez (https://www.github.com/alesanchezr)
+7. Alejandro Sanchez (https://www.github.com/alesanchezr
+8. Gabriel Perez (https://github.com/gabriel0324)
 
 To learn more about BreatheCode we encourage you to read our [contribution manual](https://github.com/breatheco-de/main-documentation).
